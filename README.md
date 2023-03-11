@@ -1,9 +1,2 @@
-# TGE
-
--HOME
-
--DOCS
-
--DOWNLOAD
-
--OFFLINE DOCS
+# tge.github.io
+TGE BETA WEBSITE
